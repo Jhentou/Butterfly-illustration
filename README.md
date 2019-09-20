@@ -1,6 +1,6 @@
 <img src=https://www.ncnu.edu.tw/ncnuweb/units/share/全校共用/web_material/images/banner/banner_22.gif>
  
-# 蝴蝶圖鑑＿期末專案
+# 蝴蝶圖鑑
 APP說明：本程式內容為蝴蝶簡易圖鑑，圖片來源來自暨南國際大學劉震昌教授經營「台灣蝴蝶誌 (Butterflies in Taiwan)」授課內容授權使用圖片、圖鑑文字內容來源為「台灣生物多樣性網路 (Taiwan Biodiversity Network)」內容文件授權皆為開放自由索取，所以由上述網頁中抓取學名、分佈位置、生態型性等...。
 
 ### ！注意！作者聲明
